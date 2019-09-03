@@ -2,9 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tzvi Seliger",
 	"description": "Trying to learn something",
-	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"keywords": [ "descriptive", "freecodecamp", "words"],
+	"version": "1.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
